@@ -1,3 +1,25 @@
+## KDP generate PDF
+
+- Index Page
+- ![image](https://github.com/DEVESH-2030/kdp-generator/assets/73014162/27f114f8-aab8-4337-ab8a-0dc5fb15b91d)
+
+
+- If click on the Stream & Download NDP Book
+  ![image](https://github.com/DEVESH-2030/kdp-generator/assets/73014162/6d32947c-b033-4bc0-a366-9c0fb6de16d4)
+
+ 
+- If click on the Preview my Book
+- Front cover page
+![image](https://github.com/DEVESH-2030/kdp-generator/assets/73014162/39844408-ef23-450b-9781-edd1cda673ad)
+
+- Chapter wise page
+![image](https://github.com/DEVESH-2030/kdp-generator/assets/73014162/214a4348-9370-4ec2-ab54-f2c2fff5f741)
+
+- Back cover page
+  ![image](https://github.com/DEVESH-2030/kdp-generator/assets/73014162/46f62ffc-14c9-4068-b05e-f3b920306f71)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
