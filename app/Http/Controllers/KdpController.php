@@ -66,8 +66,9 @@ class KdpController extends Controller
         $pdf->setOption('page-size', 'A4', 'landscap');
 
         $filename = 'KDP_book_' . uniqid() . '.pdf';
-        return $pdf->stream($filename);
-        // return $pdf->download($filename);
+
+        // return $pdf->stream($filename);
+        return $pdf->download($filename);
     }
 
     /**
