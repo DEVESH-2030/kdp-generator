@@ -1,5 +1,7 @@
 ## KDP generate PDF
 
+### all the contents are static right now, but I can do dynamic and more better.
+
 - Index Page
 - ![image](https://github.com/DEVESH-2030/kdp-generator/assets/73014162/27f114f8-aab8-4337-ab8a-0dc5fb15b91d)
 
